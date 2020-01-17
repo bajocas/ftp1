@@ -14,9 +14,9 @@ Contenido disponible en [bajocas.github.io/ftp1](https://bajocas.github.io/ftp1/
 
 ## Índice
 1. Conceptos básicos
-1. segfeharmsstkydt
+1. 
 
 * Actividades
   * [Actividad 1](actividad1.md)
-* rtbrnrnrny
+* 
 
