@@ -6,7 +6,7 @@ Contenido disponible en [bajocas.github.io/ftp1](https://bajocas.github.io/ftp1/
 
 **¿Alguna vez habéis pensado en los orígenes de Google Drive, Dropbox, etc...??**
 
-**¿En cómo se transferían los archivos cuando no existían estos?
+**¿En cómo se transferían los archivos cuando no existían estos?**
 
 **¿En quién fue el padre de estas aplicaciones?**
 
