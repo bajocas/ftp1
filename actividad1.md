@@ -25,10 +25,10 @@ En este se explica de manera muy sencilla como instalar webmin: [Webmin](https:/
 
 Tendrás que introducir la dirección ip de tu equipo y el puerto que desees, nómbralo servidor 1.
 
-![imagen6](/imagenes/Captura6.png)
+![imagen6](/imagenes/Captura6.PNG)
 
 Ahora crea otro sitio ftp con la misma dirección ip pero con un puerto distinto y nómbralo ftp2
 
-![imagen7](/imagenes/Captura7.png)
+![imagen7](/imagenes/Captura7.PNG)
 
 [Volver a página principal](README.md)
