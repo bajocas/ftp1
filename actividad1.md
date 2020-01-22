@@ -19,7 +19,7 @@ En este se explica de manera muy sencilla como instalar webmin: [Webmin](https:/
 
 ![imagen4](/imagenes/Captura4.PNG)
 
-5. Aquí indicaremos la dirección IP, el puerto y el nombre para crear un nuevo sitio ftp
+5. Aquí indicaremos la dirección IP, el puerto y el nombre para crear un nuevo sitio ftp y le daremos a *Create*
 
 ![imagen5](/imagenes/Captura5.png)
 
