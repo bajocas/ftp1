@@ -11,6 +11,8 @@ En este se explica de manera muy sencilla como instalar webmin: [Webmin](https:/
 
 ![imagen2](/imagenes/Captura2.PNG)
 
-3. 
+3. Nos lleva a una página dónde nos muestra los distintos paquetes que va a instalar. Tendremos que volver a pulsar *Install Now*
+
+![imagen3](/imagenes/Captura3.PNG)
 
 [Volver a página principal](README.md)
