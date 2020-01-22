@@ -7,7 +7,7 @@ En este se explica de manera muy sencilla como instalar webmin: [Webmin](https:/
 
 ![imagen](/imagenes/Captura1.PNG)
 
-## 2. Buscamos *ProFTPD* y aparecerá la siguiente página. Le daremos a *Instalar*.
+## 2. Buscamos *ProFTPD* y aparecerá la siguiente página. Le daremos a *Install Now*.
 
 ![imagen2](/imagenes/Captura2.PNG)
 
