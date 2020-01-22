@@ -15,4 +15,10 @@ En este se explica de manera muy sencilla como instalar webmin: [Webmin](https:/
 
 ![imagen3](/imagenes/Captura3.PNG)
 
+4. Cuando finalice la instalación nos mostrará el panel de configuración del servidor
+
+![imagen4](/imagenes/Captura4.PNG)
+
+5.
+
 [Volver a página principal](README.md)
