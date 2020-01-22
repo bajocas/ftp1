@@ -23,4 +23,9 @@ En este se explica de manera muy sencilla como instalar webmin: [Webmin](https:/
 
 ![imagen5](/imagenes/Captura5.png)
 
+6. 
+
+
+
+
 [Volver a página principal](README.md)
