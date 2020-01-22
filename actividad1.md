@@ -19,6 +19,6 @@ En este se explica de manera muy sencilla como instalar webmin: [Webmin](https:/
 
 ![imagen4](/imagenes/Captura4.PNG)
 
-5.
+5. Para crear un nuevo sitio FTP 
 
 [Volver a página principal](README.md)
