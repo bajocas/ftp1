@@ -12,4 +12,4 @@ Contenido disponible en [juanjojbg.github.io/ftp1](https://juanjojbg.github.io/f
 
 **¿Cómo se configura e instala?**
 
-Si quieres saber más... --> [Actividad 1](ftp1/actividad1.md)
+Si quieres saber más... --> [Actividad 1](actividad1.md)
