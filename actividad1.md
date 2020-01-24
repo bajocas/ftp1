@@ -37,4 +37,6 @@ Ahora crea otro sitio ftp con la misma dirección ip pero con un puerto distinto
 
 ![imagen7](/imagenes/Captura7.PNG)
 
+
+
 [Volver a página principal](README.md)
