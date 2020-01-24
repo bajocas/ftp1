@@ -1,6 +1,6 @@
 # FTP1
 
-Contenido disponible en [juanjojbg.github.io/ftp1](https://juanjojbg.github.io/ftp1/)
+Contenido disponible en [github.io](https://juanjojbg.github.io/ftp1/)
 
 *FTP(File Transfer Protocool)*
 
