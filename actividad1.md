@@ -1,7 +1,11 @@
-## Instalar servidor FTP
+# Instalación del servidor y discriminación de sitios FTP
 
-Como primer paso de introducción al servidor FTP, vamos a instalarlo en neustra máquina virtual de Ubuntu 18.04 y vamos a ver unas pocas opciones con las que cuenta este servidor, además para hacerlo de manera más sencilla, vamos a hacerlo con la ayuda de webmin, que nos ayudará a hacer todos estos pasos de manera más sencilla.
-En este se explica de manera muy sencilla como instalar webmin: [Webmin](https://clouding.io/kb/como-instalar-webmin-en-ubuntu-18-04/)
+Como primer paso de introducción a los servidores FTP, vamos a instalar uno en neustra máquina virtual de Ubuntu 18.04. Para hacerlo de una manera más sencilla, lo instalaremos con la ayuda de *webmin*.
+[Aquí](https://clouding.io/kb/como-instalar-webmin-en-ubuntu-18-04/) se explica de manera muy sencilla como instalar webmin.
+
+Una vez tengamos instalado *webmin*, instalaremos el servidor FTP
+
+## Instalación
 
 1. En el panel lateral de webmin, abrimos el apartado *Un-used Modules*
 
@@ -19,7 +23,9 @@ En este se explica de manera muy sencilla como instalar webmin: [Webmin](https:/
 
 ![imagen4](/imagenes/Captura4.PNG)
 
-5. Aquí indicaremos la dirección IP, el puerto y el nombre para crear un nuevo sitio ftp y le daremos a *Create*
+## Discriminación de sitios
+
+En el siguiente apartado del panel de configuración indicaremos la dirección IP, el puerto y el nombre para crear un nuevo sitio ftp y le daremos a *Create*
 
 ![imagen5](/imagenes/Captura5.png)
 
